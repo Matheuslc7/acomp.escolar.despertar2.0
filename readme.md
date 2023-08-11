@@ -1,6 +1,4 @@
-# Título do projeto
-
-Site Acompanhamento escolar despertar 2.0
+# Site Acompanhamento escolar despertar 2.0
 
 ## 🚀 Começando
 
