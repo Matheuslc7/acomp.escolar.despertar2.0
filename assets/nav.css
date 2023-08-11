@@ -1,6 +1,23 @@
 .navbar {
     width: 100%;
-    height: 5vw;
-    background-color: beige;
+    height: 10vw;
+    display: flex;
+    background-image: linear-gradient(180deg, rgb(241, 200, 13), rgb(248, 248, 197), rgb(248, 248, 197), rgb(241, 200, 13));
+    gap: 9vw;
+}
 
+.logo {
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 3vw;
+    padding: 1vw 0;
+}
+
+.elemento_nav {
+    display: flex;
+    align-items: center;
+    font-size: 1.1vw;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
 }
