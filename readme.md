@@ -8,8 +8,6 @@ Site feito para o acompanhamento de crianças para o aperfeiçoamento de suas ca
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [JavaScript](https://developer.oracle.com/pt-BR/languages/javascript.html) - A linguagem utilizada
 
 ## ✒️ Autores
